@@ -1,1 +1,2 @@
-GitHub is a very good web app / plathform for showing our skills.
+This is a story
+GitHub is a perfect web app/platform for showing our skills.
